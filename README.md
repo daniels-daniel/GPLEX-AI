@@ -1,2 +1,2 @@
-# GPLEX-AI
-Developing Agency Precisely through Time
+pip install llama-stack
+pip install llama-stack -U
